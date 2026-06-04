@@ -37,7 +37,6 @@ const NewsLetter = () => {
           type="text"
           className="form-input"
           name="name"
-          defaultValue="john"
           id="name"
           required
         />
@@ -51,7 +50,6 @@ const NewsLetter = () => {
           type="text"
           className="form-input"
           name="lastName"
-          defaultValue="smith"
           id="lastName"
           required
         />
